@@ -1,0 +1,40 @@
+{
+  "ProjectName": "AppFeedback Demo",
+  "ProjectGuid": "4bdcf3b0-c634-43da-826a-5b4628d486fb",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.AppFeedbackDemo",
+  "DisplayName": "AppFeedback Demo",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{76e953d7-28f2-432c-8eb0-cac3a28a108d}",
+  "WP8ProductID": "{622e8627-a638-4cb9-bcfa-6692899dfdab}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.AppFeedbackDemo",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
