@@ -10,13 +10,15 @@ var APP_FEEDBACK_API_KEY = '65902400-041f-11e4-be38-73f40f037825';
       initAppFeedback: function () {
         if (!this.checkSimulator()) {
           var feedbackOptions = {
-            enableShake: true
+            enableShake: true // shake to show the feedback dialog
           };
 
           window.feedback.initialize(
             APP_FEEDBACK_API_KEY,
             feedbackOptions
           );
+          
+          alert('Telerik App Feedback is now available');
         }
       },
 
