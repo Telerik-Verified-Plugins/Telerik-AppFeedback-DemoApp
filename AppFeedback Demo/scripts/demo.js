@@ -18,7 +18,7 @@ var APP_FEEDBACK_API_KEY = '65902400-041f-11e4-be38-73f40f037825';
             feedbackOptions
           );
           
-          alert('Telerik App Feedback is now available');
+          setTimeout(function(){alert('Telerik App Feedback is now available')}, 100);
         }
       },
 
